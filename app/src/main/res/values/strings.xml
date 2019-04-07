@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">proyectoAndroid</string>
+    <string name="st_titulo">Contador</string>
+    <string name="st_mas">+</string>
+    <string name="st_menos">-</string>
+    <string name="st_reset">Reset</string>
 </resources>
